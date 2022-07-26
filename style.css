@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+ul li a {
+    margin: 0 16px;
+}
+.slider-btn {
+    padding: 10px 43px;
+    border: none;
+    border-radius: 5px;
+}
+.pricing-icon{
+    width: 20px;
+    height: 20px;
+}
+.price-hot {
+    position: absolute;
+    top: 0;
+    left: 80%;
+}
+.person {
+    align-self: center;
+    height: 100px;
+    width: 100px;
+}
+
